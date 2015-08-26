@@ -3,13 +3,22 @@ layout: page
 title: About
 permalink: /about/
 ---
+About
+=====
 
-Some information about you!
+This is my personal blog where I will post stuff that I find interesting within the Software Development profession and other topics that might be related.
 
-### More Information
+### Who am I?
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a Computer Scientist by profession and education, meaning I (tightly) hold a degree in Computer Science and work as a software developer. This comes with certain drawbacks, mainly that in many situations I have to deal with co-workers who approach the software development profession from a more _rustic_ background which can be very frustrating. It is in those moments when I recall the following:
+
+> How can an apple explain to a two dimensional triangle what the third dimension is?
+>           -- <cite>Carl Sagan</cite>
+
+### Copyright
+
+Copyright by &copy; Juan J. Olmedilla Arregui
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[juan@olmedilla.com](mailto:juan@olmedilla.com)
