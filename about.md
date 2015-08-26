@@ -13,6 +13,10 @@ I am a Computer Scientist by profession and education, meaning I (tightly) hold 
 > How can an apple explain to a two dimensional triangle what the third dimension is?
 >           --<cite>Carl Sagan</cite>
 
+### About my name
+
+As all spaniards I have two surnames, one from my father (Olmedilla) and one from my mother (Arregui). The name that appears in my passport is: Juan José Olmedilla Arregui. *Juan Olmedilla* is a shortening.
+
 ### Copyright
 
 Copyright by &copy; Juan J. Olmedilla Arregui
