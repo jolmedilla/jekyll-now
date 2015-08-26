@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scanning the issues: Communications of the ACM and IEEE Software, August 2015
+title: Scanning the issues, August
 ---
 
 I have scanned August issues of Communications of the ACM and IEEE Software and I have found a couple of interesting articles that I would like to share with you:
