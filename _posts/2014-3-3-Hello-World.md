@@ -1,10 +1,8 @@
 ---
 layout: post
-title: Scanning the issues: Communications of ACM and IEEE Software
+title: Scanning the issues: Communications of the ACM and IEEE Software, August 2015
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I have scanned August issues of Communications of the ACM and IEEE Software and I have found a couple of interesting articles that I would like to share with you:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[Testing Web Applications with State objects](http://cacm.acm.org/magazines/2015/8/189845-testing-web-applications-with-state-objects/fulltext) is an iteresting practical article that describes a method to specify and build tests for web applications using Martin Fowler's Page Objects on top of Selenium WebDriver. The beauty of it is that a complete web site can be described, from a testing perspective, as a state machine in which all pages are stateful and the transition between pages are state transitions. Page Objects and State Objects help to abstract from the underlying Selenium WebDriver API into a more domain meaningful voabulary so that the tests can be easily understood by all stakeholders.
