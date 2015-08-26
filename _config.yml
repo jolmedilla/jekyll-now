@@ -6,7 +6,7 @@
 name: Juan Olmedilla
 
 # Short bio or description (displayed in the header)
-description: Computer Scientist
+description: Software Engineer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/6513293?v=3
@@ -18,12 +18,12 @@ avatar: https://avatars.githubusercontent.com/u/6513293?v=3
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: juan@olmedilla.com
   facebook:
   flickr:
-  github: jolmedilla/jekyll-now
+  github: jolmedilla/jolmedilla.github.io
   instagram:
-  linkedin:
+  linkedin: https://ie.linkedin.com/in/jolmedilla
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: jolmedilla
