@@ -6,7 +6,7 @@ permalink: /about/
 About
 =====
 
-This is my personal blog where I will post stuff that I find interesting within the Software Development profession and other topics that might be related.
+This is my personal blog where I will post stuff that I find interesting for the Software Development profession and other related topics.
 
 ### Who am I?
 
