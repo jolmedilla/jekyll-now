@@ -13,8 +13,10 @@ And now back to my conversation with Javier, here he is, as Carl Sagan's apple l
 
 My good friend Javier, being an optimist as he is, told me then:
 > I still think those Quality Department people can be recycled to the new paradigm, but how? What can they do in an Agile organisation?
+
 Well, I was thinking about this for several days and finally I came up with a sensible answer, an answer that came to me when someone else asked me the following question:
 > How do I make sure that my teams in the organisation are being Agile and not just simply using it as an excuse? How do I make sure they are doing what they should?
+
 Well, this is what this person asked me, I know the question is a bit old fashioned but it contained a grain of truth. I realized that the answer had been in front of me all the time. In fact, there are already many people doing what a Quality Department could do internally, that is, make sure they produce software and that they customise the Agile Framework to their needs along the way. These Quality Department ask for evidence that they do the Agile ceremonies, it does not have to be documentary evidence, you can do audits, of course, but why not go to the ceremonies as an audit in itself? What does an Agile Coach do? He goes to your daily standups, to your retrospectives, to your demos, to your grooming and planning sessions, etc. An Agile Quality Department should in fact be an internal Agile Coaching Team of sorts. Here is my list of things they should do:
 * Go randomly to daily standups, demos, retrospectives from different teams
 * Make sure that every team has some kind of CI a minimum, better if they also have CD. But not prescribe a given technology or any specifics
