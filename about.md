@@ -8,7 +8,7 @@ This is my personal blog where I will post stuff that I find interesting for the
 
 ### Who am I?
 
-I am a Computer Scientist by profession and education and I have been working in Software Development for almost 20 years.
+I am a Computer Scientist by profession and education and I have been working in Software Development since 1996.
 
 ### About my name
 
